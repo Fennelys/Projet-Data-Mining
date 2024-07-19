@@ -17,11 +17,12 @@ This is how to step in!
   
 ## Preparing to work
 *	Clone the repository with this command: git clone https://github.com/ViveLesCrepess/Projet-Data-Mining.git
-*	Install and import all the imports in the requirements.txt file
+*	Install and import all the imports in the requirements.txt file.
   
 ## Begin to work
-*	Run the python code
+*	Run the python code.
 *	The program runs via streamlit, use this command to open it after you ran the program: streamlit run YOUR_FOLDER_PATH\main.py
+*	Upload your .csv database and now you can check all categories and select the parameters of your choosing.
   
 ## Authors
 *	Wilhem HARAT
@@ -30,6 +31,6 @@ This is how to step in!
   
 ## Special thanks
 *	EFREI Paris – Engineering school in computer science
-*	FALIH, Issam – Data Mining teacher 
+*	FALIH Issam – Data Mining teacher 
 *	[GitHub Emoji Cheat Sheet](https://forthebadge.com/)
 
